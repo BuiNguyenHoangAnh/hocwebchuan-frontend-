@@ -1,0 +1,57 @@
+.menu{
+	background-color: gray;
+}
+
+.menu a{
+	color: white;
+}
+
+.footer{
+	
+}
+
+.info{
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+
+.link{
+	float: right;
+	width: 50%;
+	text-align: right;
+}
+
+.new{
+	float: left;
+	width: 75%;
+}
+
+.sidebar{
+	float: right;
+	width: 20%;
+}
+
+.imageinfo{
+	float: left;
+	width: 500;
+	height: 300;
+}
+
+.imagemini{
+	width: 100;
+	height: 50;
+}
+
+.imageside{
+	width: 200;
+	height: 100;
+}
+
+ul{
+	list-style-type: circle;
+}
+
+button{
+	background-color: gray;
+}
